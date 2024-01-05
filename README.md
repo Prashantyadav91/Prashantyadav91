@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Prashant Yadav
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
+- 👋 Hi, I’m Prashant Yadav.
+- 👀 I am very enthusiastic about the coding languages therefore ,I’m interested in web development.
+- 🌱 I’m currently learning web development and exploring the tech world.
 - 📫 Email me on prashantyadav91253@gmail.com
--    I am a B.C.A. student
+- 📖 I am persuding B.C.A.(Bachelor's of Computer Studies).
 
 <!---
 Prashantyadav91/Prashantyadav91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
